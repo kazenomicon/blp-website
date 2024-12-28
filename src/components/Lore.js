@@ -48,7 +48,7 @@ const Lore = () => {
                                 layout="responsive"
                                 width={300}
                                 height={300}
-                                className="object-cover"
+                                className="object-cover cursor-pointer"
                                 onClick={() => { window.location.href = '/lore' }}
                             />
                         </div>

@@ -32,7 +32,7 @@ const About = () => {
                         เหมือนกับชื่อ ดั่งแสงที่สว่างจ้า
                     </div>
                     <div className='flex justify-center mt-8'>
-                        <div className=' text-[32px] font-serif text-center content-center w-[200px] h-[60px] bg-gradient-to-br from-white via-slate-100 to-slate-200 rounded-about'>
+                        <div className='cursor-pointer text-[32px] font-serif text-center content-center w-[200px] h-[60px] bg-gradient-to-br from-white via-slate-100 to-slate-200 rounded-about'>
                             MORE
                         </div>
                     </div>

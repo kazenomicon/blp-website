@@ -37,7 +37,7 @@ export default function Home() {
             layout="responsive"
             width={200}
             height={200}
-            className="object-cover"
+            className="object-cover cursor-pointer"
             onClick={() => { window.location.href = '/home' }}
           />
         </div>
