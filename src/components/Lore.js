@@ -12,7 +12,7 @@ const Lore = () => {
                     ref={loreRef}
                     className={`
                 ${"content-center flex-col h-auto w-full transition ease-in duration-500"}
-                ${isIsVisible ? "scale-x-100 opacity-100" : "scale-x-0 opacity-0"}
+                ${isIsVisible ? "scale-x-100 opacity-100" : "scale-x-100 opacity-0"}
                 `}>
                     <div className="flex items-center justify-center h-full w-full">
                         <Image
