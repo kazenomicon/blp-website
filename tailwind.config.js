@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         kanit: ["kanit"],
       },
+      animation: {
+        'spin-slow': 'spin 2s linear infinite', // 2 seconds per rotation
+        'spin-fast': 'spin 0.5s linear infinite', // 0.5 seconds per rotation
+      },
     },
     borderRadius: {
       none: '0',
