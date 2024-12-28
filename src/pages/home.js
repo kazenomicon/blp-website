@@ -37,7 +37,7 @@ export default function Home() {
             {
                 loading ? (
                     <div ref={contactRef} className="flex bg-gradient-to-r from-[#212329] to-[#C18843] via-[#252B39] w-screen h-screen items-center justify-center content-center align-center" >
-                        <div class="flex w-56 h-56 border-[10px] border-slate-100 border-t-transparent rounded-full animate-spin-slow">
+                        <div class="flex lg:w-56 lg:h-56 w-32 h-32 border-[10px] border-slate-100 border-t-transparent rounded-full animate-spin-slow">
                         </div>
                     </div>
                 ) :

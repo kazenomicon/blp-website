@@ -158,15 +158,15 @@ const RootLayout = ({ children }) => {
                             }}>
                                 <div className={`${scrollY > 0 || router.pathname !== "/home" ? "bg-white" : "bg-black"}
                             ${"h-[2px] w-[20px] rounded-full transition duration-700"}
-                            ${showMenu ? "rotate-45 translate-y-2 bg-white" : "my-1"}
+                            ${showMenu ? "rotate-45 translate-y-2 bg-white" : "bg-white my-1"}
                             `}></div>
                                 <div className={`${scrollY > 0 || router.pathname !== "/home" ? "bg-white" : "bg-black"}
                             ${"h-[2px] w-[20px] bg-black rounded-full transition duration-700"}
-                            ${showMenu ? "-rotate-45 translate-y-1.5 bg-white" : "my-1"}
+                            ${showMenu ? "-rotate-45 translate-y-1.5 bg-white" : "bg-white my-1"}
                             `}></div>
                                 <div className={`${scrollY > 0 || router.pathname !== "/home" ? "bg-white" : "bg-black"}
                             ${"h-[2px] w-[20px] bg-black rounded-full transition duration-700"}
-                            ${showMenu ? "rotate-45 translate-y-1 bg-white" : "my-1"}
+                            ${showMenu ? "rotate-45 translate-y-1 bg-white" : "bg-white my-1"}
                             `}></div>
                             </div>
                         </div>
