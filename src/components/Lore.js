@@ -33,10 +33,10 @@ const Lore = () => {
                                 <div className="flex lg:text-[50px] md:text-[44px] sm:text-[32px] text-[24px] text-white font-serif md:justify-start justify-center mx-2">
                                     BLINDING LIGHTS PROJECT
                                 </div>
-                                <div className="flex font-kanit lg:text-[32px] md:text-[26px] sm:text-[22px] text-[18px]  text-white md:justify-start justify-center font-serif mx-2">
+                                <div className="flex font-kanit lg:text-[32px] md:text-[26px] sm:text-[22px] text-[18px]  text-white md:justify-start justify-center mx-2">
                                     ด้วยอำนาจของโชคชะตาทำให้พวกเรามาพบกัน
                                 </div>
-                                <div className="flex font-kanit lg:text-[32px] md:text-[26px] sm:text-[22px] text-[18px] text-white md:justify-start justify-center font-serif mx-2">
+                                <div className="flex font-kanit lg:text-[32px] md:text-[26px] sm:text-[22px] text-[18px] text-white md:justify-start justify-center mx-2">
                                     บังเกิดเป็นการเดินทางสุดปั่นป่วน
                                 </div>
                             </div>
