@@ -8,7 +8,7 @@ const FirstContent = () => {
                 <div className='flex md:mt-20 mt-24 justify-center w-auto h-auto mx-4'>
                     <div className='xl:w-[1200px] lg:w-[1000px] w-full content-center text-center rounded-about text-white'>
                         <Image
-                            src='/images/christmas_blp.png'
+                            src='/images/BLP NY_2025_Wallpaper.png'
                             alt='blp-main-image'
                             width={0}
                             height={0}
