@@ -53,7 +53,7 @@ export default function Home() {
                         <div id="contact" className="md:h-[420px] w-full bg-white py-10 lg:px-20 md:px-10 px-4">
                             <div ref={contactRef} className={`
         ${"flex flex-col justify-between h-full w-full bg-white border-2 border-blue-900 rounded-about transition-all duration-700 ease-in-out"}
-        ${isVisible ? "opacoty-100 scale-100" : "opacity-0 scale-0"}
+        ${isVisible ? "opacoty-100 scale-100" : "opacity-100 scale-100"}
         `}>
                                 <div className="flex md:flex-row flex-col h-auto w-full">
                                     <div className="flex flex-col lg:w-2/6 md:w-4/6">
