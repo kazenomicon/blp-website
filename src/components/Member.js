@@ -43,13 +43,13 @@ const Member = () => {
             `}>
                 <div className="py-5 md:px-16 sm:px-8 px-2 md:mx-0 mx-6 text-center flex-col lg:h-[150px] md:h-[140px] sm:h-[125px] h-[100px] lg:w-[1000px] md:w-[800px] w-auto ">
                     <p className="lg:text-[32px] md:text-[28px] text-[24px] font-bold subpixel-antialiased text-white">
-                        FATHER ANT
+                        Voyager
                     </p>
                     <p className="text-slate-400 lg:px-32 md:px-24 sm:px-14 px-0 antialiased">
                         0
                         <a className='absolute -translate-y-1 text-[12px]'>th</a>
                         <a className='ml-4'>
-                            Absolute Zero
+                            Generation
                         </a>
                     </p>
                 </div>
